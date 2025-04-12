@@ -1,0 +1,14 @@
+# Ignore system files
+.DS_Store
+
+# Ignore AI Sprite files (example directory)
+rotr/Assets/AI Sprites/
+
+# Ignore all PNG files in the project
+*.png
+*.png.meta
+
+# Ignore all WEBP files
+*.webp
+*.webp.meta
+
